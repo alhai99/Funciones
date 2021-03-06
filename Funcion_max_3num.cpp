@@ -7,7 +7,6 @@ ramirez reyes alhai
 using namespace std;
 
 int max(int a, int b);
-int max_1(int e, int f);
 int main()
 {
     int N1, N2, N3;
